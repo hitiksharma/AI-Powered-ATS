@@ -10,6 +10,7 @@ An intelligent resume screening system combining Deep Learning, NLP, Credibility
 - **SHAP + LIME** dual explainability
 - **Streamlit web app** with PDF/DOCX upload
 ## Project Structure
+
 Thesis_final/
 ├── notebooks/
 │   ├── 01_data_collection_and_setup.ipynb
@@ -42,4 +43,4 @@ streamlit run app/app.py
 Python | PyTorch | scikit-learn | SBERT | SHAP | LIME | Streamlit | spaCy | NLTK
 
 ## Thesis
-Supervised by Prof. Dr. Michael Granitzer, Lehrstuhl für Data Science, University of Passau.
+Supervised by Prof. Dr. Tomas Sauer, University of Passau.
