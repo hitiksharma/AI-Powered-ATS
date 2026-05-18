@@ -1,0 +1,40 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large raw data files (>50MB)
+data/raw/resume_jd_pairs/Resume.csv
+data/raw/job_descriptions/job_descriptions.csv
+data/raw/resumes/05_person_skills.csv
+data/raw/resumes/Resume/Resume.csv
+data/raw/linkedin_jobs/job_skills.csv
+data/raw/linkedin_jobs/job_summary.csv
+data/raw/linkedin_jobs/linkedin_job_postings.csv
+
+# Model binary files (large)
+*.pt
+*.pth
+*.h5
+
+# OS files
+.DS_Store
+
+# LaTeX build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
