@@ -1,0 +1,4 @@
+Dataset,Records,Categories,Avg Words,Avg Skills,Source File
+Resume Corpus,962,25,450,5.7,UpdatedResumeDataSet.csv
+54K Structured Resumes,54933,—,—,"226,760 total",6 CSV files
+Job Descriptions,50000,—,24,—,job_descriptions.csv
